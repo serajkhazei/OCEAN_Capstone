@@ -1,8 +1,7 @@
 # Psychometric_Capstone
 By:Seraj Khazei
 
-
-<img src="images/image-4.png" class="center" width="400" height="400" >
+![caption](Images/image-4.png.jpg)
 
 
 ###  Overview
