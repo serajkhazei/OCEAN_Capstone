@@ -32,13 +32,6 @@ The goal of this project was to come up with a method to identify individuals wh
 Please review my full analysis in my [Jupyter Notebook](https://github.com/serajkhazei/Psychometric_Capstone/blob/main/Final_Notebook.ipynb) or my [presentation](https://github.com/serajkhazei/Psychometric_Capstone/blob/main/Capstone_presentation.pdf).
 ### Repository Structure
 
-Final_df.csv
-dataset folder
-7 days ago
-master_data.csv
-dataset folder
-7 days ago
-mypersonality_cleaned.csv
 ```
 ├── data
 │   ├── Final_df.csv
