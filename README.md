@@ -28,7 +28,7 @@ My final model has an fbeta score of 83%, which means that it correctly identifi
 The goal of this project was to come up with a method to identify individuals who show indications of Neuroticism in order to send them promotional ads to ulitmatley try to reduce the recent spike of depression and or anxiety. This was done by creating multiple classification models and identified the best one as a logistic regression model with an fbeta score of 83%. This model will allow our stakeholder to identify the neurotic users and target their ads accordingly.
 
 ### For More Information
-Please review my full analysis in my [Jupyter Notebook](https://github.com/serajkhazei/Psychometric_Capstone/blob/main/Final_Notebook.ipynb) or our [presentation](https://github.com/serajkhazei/Psychometric_Capstone/blob/main/Capstone_presentation.pdf).
+Please review my full analysis in my [Jupyter Notebook](https://github.com/serajkhazei/Psychometric_Capstone/blob/main/Final_Notebook.ipynb) or my [presentation](https://github.com/serajkhazei/Psychometric_Capstone/blob/main/Capstone_presentation.pdf).
 ### Repository Structure
 
 Final_df.csv
