@@ -2,7 +2,7 @@
 By:Seraj Khazei
 
 
-![image-4.png](attachment:image-4.png)
+<img src="images/image-4.png" class="center" width="400" height="400" >
 
 
 ###  Overview
