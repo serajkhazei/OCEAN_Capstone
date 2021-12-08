@@ -1,7 +1,8 @@
 # Psychometric_Capstone
 By:Seraj Khazei
 
-![caption](Images/image-4.png.jpg)
+![Header](https://user-images.githubusercontent.com/81191793/145141983-4eb099f5-1e67-485c-ab7d-6620dd33fcad.png)
+
 
 
 ###  Overview
