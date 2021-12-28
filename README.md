@@ -27,7 +27,7 @@ My final model has an fbeta score of 83%, which means that it correctly identifi
 
 ### Conclusion 
 The goal of this project was to come up with a method to identify individuals who show indications of Neuroticism in order to send them promotional ads to ultimately try to reduce the recent spike of depression and or anxiety. This was done by creating multiple classification models and identified the best one as a logistic regression model with an fbeta score of 83%. This model will allow our stakeholder to identify the neurotic users and target their ads accordingly.
-![image](https://user-images.githubusercontent.com/81191793/147515506-117fd8da-07a5-45e7-a401-c1b62897e211.png)
+
 
 
 ### For More Information
