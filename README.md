@@ -6,7 +6,7 @@ By:Seraj Khazei
 
 
 ###  Overview
-Capstone project for Flatiron Data Science Boot Camp. In this Project I used various classification algorithms in order to accurately identify indications of trait Neuroticism in individuals via their Facebook status updates. I start by importing necessary packages, cleaning/text preprocessing the data and building my baseline model. I want to be able to accurately classify Neurotic individuals in order to help my stakeholder target ads towards the correct Facebook users. Some of my recommendations is to focus on correctly identifying Neurotic individuals as frequent as possible to be able to hone in in the objective as much as possible.
+Capstone project for Flatiron Data Science Boot Camp. In this Project I used various classification algorithms in order to accurately identify indications of trait Neuroticism in individuals via their Facebook status updates. I start by importing necessary packages, cleaning/text preprocessing the data and building my baseline model. I want to be able to accurately classify Neurotic individuals in order to help my stakeholder target ads towards the correct Facebook users. 
 
 ### Stakeholder
 Headspace marketing team
