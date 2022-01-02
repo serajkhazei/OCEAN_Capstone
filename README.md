@@ -13,6 +13,8 @@ Headspace marketing team
 
 ### Business Problem
 Headspace among everyone in the world has noticed there has been a spike in depression and anxiety since the Pandemic has started. Headspace as being a mediation app understands they are capable of reducing the depression or anxiety rate at any scale, so in order to fulfill the following task Headspace has created a special promotion for those who already have mental illness or are of risk to mental illness. Although Headspace needs help to reach the individuals who meet the following requirement. This is where I come in to strategize a way to target the ads towards the following individuals and this notebook will be a demonstration for how the objective was tackled.
+![business_stat](https://user-images.githubusercontent.com/81191793/147866127-5f00d16d-bb03-4de7-a158-e6631f4f8ffe.png)
+
 
 
 ### Data
@@ -23,6 +25,7 @@ The dataset put into use was acquired from a project conducted by a Data scienti
 For methods, I dropped non-relevant columns and assigned neurotic or not neurotic to each status update. I tokenized the status to split each status into its respective words so that each word is a feature in the model. I also remove stop words as they provide little to no sentiment value to the status. Lemmatization is performed to group words with the same meaning together as one word. TF-IDF is applied in order to assign each word in each Facebook status as a numeric value based on its importance across all tweets. Finally, SMOTE is applied in order to eliminate the class imbalance observed in the target variable (sentiment). I used pandas to perform data filtering and visualization, nltk to perform text preprocessing, imblearn for oversampling and pipeline, sklearn for TF-IDF. For modeling, and I utilized the sklearn's Logistic Regression, DecisionTree and Random Forest Classifier methods. I tuned my models using GridSearchCV also provided by sklearn.
 
 My final model has an fbeta score of 83%, which means that it correctly identifies the sentiment of statues 83% of the time. I used a training set and validation set to validate my model performance, and used the test set on my final model.
+![Final_con_matrix](https://user-images.githubusercontent.com/81191793/147866130-c7f14675-a9d3-4cd2-a3a1-6479e7a984e8.png)
 
 
 ### Conclusion 
